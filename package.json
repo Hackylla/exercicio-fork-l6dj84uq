@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/hackylla.exercicio-fork-l6dj84uq",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 51N8BfjLhIW665Gbxz8F --open"
+  }
+}
